@@ -1,0 +1,8 @@
+Nicu 19 174 2004 student
+Misha 19 192 2005 student
+Dragos 26 175 1999 teacher
+Stefan 25 179 1998 student
+Sasa 25 193 1998 worker
+David 19 181 2004 student
+Daniel 19 186 2004 student
+Gabi 20 180 2003 student
