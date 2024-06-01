@@ -1,0 +1,9 @@
+Nicolae 232 19
+Mihai 232 19
+Stefan 232 19
+Alexandru 231 20
+Bogdan 235 21
+Dragos 233 18
+Lucian 234 23
+Ion 231 20
+Vlad 231 18
